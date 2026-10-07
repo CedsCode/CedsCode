@@ -42,6 +42,7 @@ Contact: [LinkedIn](https://linkedin.com/in/paclicedric) ☑️
   <img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/Assets/Cloud_Practitioner.png" alt="AWS Certified Cloud Practitioner (CCP) Badge" width="105"/>
   <img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/Assets/LFS101.png" alt="Linux Foundation: Introduction to Linux Badge" width="105"/>
   <img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/Assets/CloudQuestBadge.png" alt="AWS Skill Builder | Cloud Quest: Cloud Practitioner Badge" width="105"/>
+  <img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/Assets/AWS_Cloudops.png" alt="AWS CloudOps Engineer - Associate" width="105"/>
 </div>
 
 ---
