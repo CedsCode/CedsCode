@@ -34,6 +34,14 @@ Contact: [LinkedIn](https://linkedin.com/in/paclicedric) ☑️ · [Portfolio](h
   <img src="Assets/Cloud_Practitioner.png" alt="AWS Certified Cloud Practitioner" width="105"/>
 </p>
 
+## Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CedsCode/CedsCode/output/galaga-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CedsCode/CedsCode/output/galaga-contribution-graph.svg" />
+  <img alt="Galaga-style animation of my GitHub contribution graph" src="https://raw.githubusercontent.com/CedsCode/CedsCode/output/galaga-contribution-graph.svg" />
+</picture>
+
 ---
 
 <div align="center">
