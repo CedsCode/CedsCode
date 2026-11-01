@@ -56,9 +56,9 @@ Contact: [LinkedIn](https://linkedin.com/in/paclicedric) ☑️ · [Portfolio](h
   <img alt="Galaga-style animation of my GitHub contribution graph" src="https://raw.githubusercontent.com/CedsCode/CedsCode/output/galaga-contribution-graph.svg" />
 </picture>
 
-<p align="left">
-  <img src="./profile/stats.svg" alt="GitHub stats" height="170"/>&nbsp;
-  <img src="./profile/top-langs.svg" alt="Top languages" height="170"/>
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub stats" width="55%"/>&nbsp;
+  <img src="./profile/top-langs.svg" alt="Top languages" width="42%"/>
 </p>
 
 ---
