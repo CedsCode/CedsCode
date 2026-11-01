@@ -17,7 +17,7 @@ Contact: [LinkedIn](https://linkedin.com/in/paclicedric) ☑️ · [Portfolio](h
 ### Specialized:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/amazonwebservices/amazonwebservices-plain.svg" height="40" alt="AWS"/>&nbsp;
   <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="Terraform"/>&nbsp;
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker"/>&nbsp;
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux"/>&nbsp;
