@@ -2,8 +2,11 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once daily at midnight
+    - cron: "0 0 * * *" # Runs once daily at midnight UTC
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/reademe-cards.yml" # runs whenever this file changes
 
 jobs:
   build:
@@ -19,7 +22,6 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          # ✏️ EDIT: added &theme=transparent&hide_border=true so it reads in light + dark mode
           options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -28,12 +30,9 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          # ✏️ EDIT: same theme tweak
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=transparent&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      # ✏️ EDIT: removed the docs' sample "pin" card step
 
       - name: Commit cards
         run: |
