@@ -1,3 +1,7 @@
+<img src="Assets/background.gif" alt="background" width="100%" />
+
+<sub><em>Credit: <a href="https://www.pinterest.com/dycastella/">Dy Castella</a> on Pinterest</em></sub>
+
 # CedsCode
 
 **`DevOps` `SRE` `Platform Engineering`**
@@ -5,6 +9,8 @@
 <h3>I keep production AWS environments running, and I build side projects the way I'd want production to be built: defined in code, monitored from day one, with a safe way to roll back.</h3>
 
 Contact: [LinkedIn](https://linkedin.com/in/paclicedric) ☑️ · [Portfolio](https://cedscode.vercel.app/)
+
+🔭 **Currently:** preparing for HashiCorp Terraform Associate · Azure next
 
 ## Tech Stack
 
@@ -34,6 +40,14 @@ Contact: [LinkedIn](https://linkedin.com/in/paclicedric) ☑️ · [Portfolio](h
   <img src="Assets/Cloud_Practitioner.png" alt="AWS Certified Cloud Practitioner" width="105"/>
 </p>
 
+### Training & Badges:
+
+<p align="left">
+  <img src="Assets/AWS_Graduate.png" alt="AWS re/Start Graduate" width="80"/>&nbsp;
+  <img src="Assets/CloudQuestBadge.png" alt="AWS Skill Builder | Cloud Quest: Cloud Practitioner Badge" width="80"/>&nbsp;
+  <img src="Assets/LFS101.png" alt="Linux Foundation: Introduction to Linux Badge" width="80"/>
+</p>
+
 ## Contribution Activity
 
 <picture>
@@ -41,6 +55,11 @@ Contact: [LinkedIn](https://linkedin.com/in/paclicedric) ☑️ · [Portfolio](h
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CedsCode/CedsCode/output/galaga-contribution-graph.svg" />
   <img alt="Galaga-style animation of my GitHub contribution graph" src="https://raw.githubusercontent.com/CedsCode/CedsCode/output/galaga-contribution-graph.svg" />
 </picture>
+
+<p align="left">
+  <img src="./profile/stats.svg" alt="GitHub stats" height="170"/>&nbsp;
+  <img src="./profile/top-langs.svg" alt="Top languages" height="170"/>
+</p>
 
 ---
 
